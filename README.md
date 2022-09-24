@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SR-Kishore
+- 👋 Hi, I’m Kishore SR
 - 👀 I’m Working in Cavalry Data Services Pvt. Ltd. as DevOps Engineer.
 - 🌱 I’m currently learning everything related to DevOps.
 - 📫 reach me kgsr027@gmail.com
